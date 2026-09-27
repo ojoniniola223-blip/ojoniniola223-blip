@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently learning Git and version control
-- 💻 I'm interested in learning and doing projects at TS Academy
+- 💻 I'm interested in learning and doing projects at nextwork.
 - 📫 How to reach me: ojomoses@outlook.com
 
 ## Projects
